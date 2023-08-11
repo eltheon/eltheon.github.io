@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Welcome
 
 This page is under construction.
 

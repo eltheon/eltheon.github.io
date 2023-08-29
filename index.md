@@ -4,4 +4,4 @@ layout: default
 
 This page is under construction.
 
-Say tuned for more updates.
+Stay tuned for more updates.
